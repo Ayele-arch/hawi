@@ -1,0 +1,17 @@
+
+body{padding: 6%;
+    background-image: url("background.png");}
+dd{background-color: rgb(146, 180, 243);}
+h1{color: brown;,
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(146, 180, 243);}
+h2{color: brown;}
+h3{color: brown;}
+h4{color: brown;}
+h5{color: brown;}
+    a {
+        background-color: rgb(235, 137, 91);
+        color: white;
+        padding: 1em 1.5em;
+        text-transform: uppercase;
+      }  
